@@ -114,6 +114,10 @@ Real-time fitness tracking application with workout logging and progress monitor
 
 ---
 
+## 📈 Contribution Graph
+
+[![Sai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaitrishankAUCSE&theme=tokyo-night)](https://github.com/SaitrishankAUCSE)
+
 # 🤝 Connect With Me
 
 <p align="left">
