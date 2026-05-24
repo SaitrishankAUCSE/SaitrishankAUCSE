@@ -62,7 +62,7 @@ ML-powered property price prediction platform using Random Forest trained on 20,
 
 **Tech Stack:** Python, Scikit-Learn, React.js, Vercel
 
-🔗 Live Demo | GitHub Repository
+🔗 [Live Demo](https://house-price-prediction-project-neon.vercel.app/) | [GitHub Repository](https://github.com/SaitrishankAUCSE/House-Price-Prediction-Project)
 
 ---
 
