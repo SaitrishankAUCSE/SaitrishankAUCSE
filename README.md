@@ -1,4 +1,4 @@
-+<h1 align="center">Hi 👋, I'm Venkata Sai Trishank Kamma</h1>
+<h1 align="center">Hi 👋, I'm Venkata Sai Trishank Kamma</h1>
 <h3 align="center">Full-Stack Developer • Python Engineer • ML Enthusiast</h3>
 
 <p align="center">
@@ -9,11 +9,16 @@
   <a href="https://github.com/SaitrishankAUCSE">
     <img src="https://img.shields.io/github/followers/SaitrishankAUCSE?label=Followers&style=for-the-badge" />
   </a>
+
   <a href="mailto:trishankofficial1311@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
+
   <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-peach-nu-21.vercel.app)
+
+  <a href="https://portfolio-peach-nu-21.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
