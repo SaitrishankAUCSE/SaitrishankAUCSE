@@ -73,14 +73,6 @@ ML-powered property price prediction platform using Random Forest trained on 20,
 </p>
 ---
 
-## 📚 Amero-X LMS
-Full-stack Learning Management System with role-based authentication, course management, and progress tracking.
-
-**Tech Stack:** Next.js, React.js, REST APIs, Vercel
-
-🔗 GitHub Repository
-
----
 
 ## 💪 Corevix Fitness Tracker
 Real-time fitness tracking application with workout logging and progress monitoring.
